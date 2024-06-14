@@ -227,3 +227,7 @@ When using Gauge together with Taiko with [gauge-ts](https://github.com/BugDiver
 
 * [Discussions](https://github.com/getgauge/taiko/discussions) for questions and help
 * [Github Issues](https://github.com/getgauge/taiko/issues) to report issues
+
+## Send report
+* [Telegram message] (https://telegram.com/taiko
+* 
